@@ -1,5 +1,5 @@
 # ATM
-Developed using Visual Studio Code for Windows, learning how to create a simple ATM Withdrawal web application using React.
+Developed using Visual Studio Code for Windows, learning how to create a simple ATM deposit and withdrawal web application using React.
 ## How to install
 Clone the repository and change directory to the deployment root directory, then execute the "http-server -c-1" command to start the application.
 ## Usage
