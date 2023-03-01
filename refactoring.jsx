@@ -76,6 +76,4 @@ const Account = () => {
     );
 };
 // ========================================
-const root = ReactDOM.createRoot(document.getElementById("root"));
-const element = <Account />
-root.render(element);
+ReactDOM.render(<Account />, document.getElementById('root'));
